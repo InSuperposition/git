@@ -4,10 +4,10 @@
 	cm = commit
 	co = checkout
 	lg = log --oneline --decorate --all --graph
-	pf =	push --force-with-lease
+	pf = push --force-with-lease
 	ps = push --signed
 	st = status
-	sh =	stash --all
+	sh = stash --all
 
 [branch]
 sort = -committerdate
@@ -39,6 +39,7 @@ sort = -committerdate
 
 [mergetool "code-mergetool"]
 	cmd = code --wait --merge $REMOTE $LOCAL $BASE $MERGED
+
 [rerere]
 	enabled = true
 
