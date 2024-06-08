@@ -1,0 +1,47 @@
+[alias]
+	br = branch
+	bl = blame -w -C -C -C -L
+	cm = commit
+	co = checkout
+	lg = log --oneline --decorate --all --graph
+	pf =	push --force-with-lease
+	ps = push --signed
+	st = status
+	sh =	stash --all
+
+[branch]
+sort = -committerdate
+
+[core]
+	editor = code --wait
+	untrackedCache = true
+
+[color]
+	ui = true
+
+[diff]
+	tool = code-difftool
+
+[difftool "code-difftool"]
+	cmd = code --wait --diff $LOCAL $REMOTE
+
+[filter "lfs"]
+	clean = git-lfs clean -- %f
+	smudge = git-lfs smudge -- %f
+	process = git-lfs filter-process
+	required = true
+
+[init]
+	defaultBranch = main
+
+[merge]
+	tool = code-mergetool
+
+[mergetool "code-mergetool"]
+	cmd = code --wait --merge $REMOTE $LOCAL $BASE $MERGED
+[rerere]
+	enabled = true
+
+[user]
+	name = InSuperposition
+	email = f.galloway@gmail.com

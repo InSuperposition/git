@@ -1,0 +1,12 @@
+[submodule ".config/alacritty/theme"]
+	path = .config/alacritty/theme
+	url = https://github.com/alacritty/alacritty-theme.git
+[submodule ".config/kitty/themes/kitty-cobalt2"]
+	path = .config/kitty/themes/kitty-cobalt2
+	url = https://github.com/lalitmee/kitty-cobalt2.git
+[submodule ".config/nvim"]
+	path = .config/nvim
+	url = https://github.com/InSuperposition/nvim.file.git
+[submodule ".config/clojure"]
+	path = .config/clojure
+	url = https://github.com/InSuperposition/clojure.git
