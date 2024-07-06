@@ -10,7 +10,7 @@
 	sh = stash --all
 
 [branch]
-sort = -committerdate
+	sort = -committerdate
 
 [core]
 	editor = code --wait
