@@ -4,13 +4,11 @@
 
 ### `git` configuration files
 
-📄 [attributes](attributes) - [git docs 📕🗎🗎🗎](https://git-scm.com/docs/gitattributes)
+=> [attributes](attributes) - [git docs 📕🗎🗎🗎](https://git-scm.com/docs/gitattributes)
 
-📄 [config](config) - [git docs🗎🗎🗎](https://git-scm.com/docs/git-config)
+=> [config](config) - [git docs 📕🗎🗎🗎](https://git-scm.com/docs/git-config)
 
-> user credentials are set in `config` file
-
-📄 [ignore](ignore) - [git docs 📕🗎🗎🗎](https://git-scm.com/docs/gitignore)
+=> [ignore](ignore) - [git docs 📕🗎🗎🗎](https://git-scm.com/docs/gitignore)
 
 ## `git` resources
 
