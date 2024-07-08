@@ -1,10 +1,8 @@
-# `git` user `--global` config
+# `git config --global`
 
 > a [`git submodule`](https://git-scm.com/book/en/v2/Git-Tools-Submodules) of the [`.file`](https://github.com/InSuperposition/.file.git) repo
 
 ## Setuup
-
-### [init.sh](init.sh) - setup environment variables for app, commands
 
 ### [attributes](attributes) - [git docs 📕🗎🗎🗎](https://git-scm.com/docs/gitattributes)
 
