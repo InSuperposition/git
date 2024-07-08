@@ -2,13 +2,13 @@
 
 > a [`git submodule`](https://git-scm.com/book/en/v2/Git-Tools-Submodules) of the [`.file`](https://github.com/InSuperposition/.file.git) repo
 
-## Setuup
+### `git` configuration files
 
-### [attributes](attributes) - [git docs 📕🗎🗎🗎](https://git-scm.com/docs/gitattributes)
+↪️ 📄 [attributes](attributes) - [git docs 📕🗎🗎🗎](https://git-scm.com/docs/gitattributes)
 
-### [config](config) - [git docs🗎🗎🗎](https://git-scm.com/docs/git-config)
+↪️ 📄 [config](config) - [git docs🗎🗎🗎](https://git-scm.com/docs/git-config)
 
-### [ignore](ignore) - [git docs 📕🗎🗎🗎](https://git-scm.com/docs/gitignore)
+↪️ 📄 [ignore](ignore) - [git docs 📕🗎🗎🗎](https://git-scm.com/docs/gitignore)
 
 ### Change `git` user
 
