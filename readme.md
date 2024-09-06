@@ -12,4 +12,12 @@
 
 ## `git` resources
 
-### [git-filter-repo](https://github.com/newren/git-filter-repo?tab=readme-ov-file#table-of-contents)
+`git-filter-repo` - [docs 📕🗎🗎🗎](https://github.com/newren/git-filter-repo?tab=readme-ov-file#table-of-contents)
+
+| alias        | action                                                       |
+| ------------ | ------------------------------------------------------------ |
+| `gfr-delete` | rewrites branch history and removes the provided folder/file |
+
+## tools
+
+`gitbutler`
