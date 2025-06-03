@@ -1,1 +1,9 @@
 .DS_Store
+
+**/.calva/output-window/output.calva-repl
+**/.calva/repl.calva-repl
+**/.clj-kondo/.cache/
+**/.clj-kondo/imports/
+**/.lsp/.cache/
+**/.portal/vs-code.edn
+**/.cpcache
