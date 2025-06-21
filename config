@@ -6,7 +6,7 @@
 	lg = log --oneline --decorate --all --graph
 	pf = push --force-with-lease
 	ps = push --signed
-	rmsub = "!f() { git submodule deinit -f $1 && git rm -f $1 && rm -rf .git/modules/$1; }; f"
+	rmsub = "!f() { git submodule deinit -f $1 && git rm --cached $1 && rm -rf .git/modules/$1; }; f"
 	st = status
 	sh = stash --all
 
